@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "-1|0",
+        "zone_code": "SP",
+        "zone_name": "Spawn Point"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1,
+              0
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "2|0",
+        "zone_code": "F",
+        "zone_name": "Fire Pit"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "0|-4",
+        "zone_code": "GA",
+        "zone_name": "Game Arena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              -4
+            ],
+            [
+              1,
+              -4
+            ],
+            [
+              1,
+              -3
+            ],
+            [
+              0,
+              -3
+            ],
+            [
+              0,
+              -4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "1|-4",
+        "zone_code": "GA",
+        "zone_name": "Game Arena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1,
+              -4
+            ],
+            [
+              2,
+              -4
+            ],
+            [
+              2,
+              -3
+            ],
+            [
+              1,
+              -3
+            ],
+            [
+              1,
+              -4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "2|-4",
+        "zone_code": "GA",
+        "zone_name": "Game Arena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2,
+              -4
+            ],
+            [
+              3,
+              -4
+            ],
+            [
+              3,
+              -3
+            ],
+            [
+              2,
+              -3
+            ],
+            [
+              2,
+              -4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "0|-2",
+        "zone_code": "DN",
+        "zone_name": "DCL News"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              -2
+            ],
+            [
+              1,
+              -2
+            ],
+            [
+              1,
+              -1
+            ],
+            [
+              0,
+              -1
+            ],
+            [
+              0,
+              -2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "1|-2",
+        "zone_code": "DN",
+        "zone_name": "DCL News"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1,
+              -2
+            ],
+            [
+              2,
+              -2
+            ],
+            [
+              2,
+              -1
+            ],
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              -2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "5|3",
+        "zone_code": "PB",
+        "zone_name": "Photo Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              3
+            ],
+            [
+              6,
+              3
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              5,
+              3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "6|3",
+        "zone_code": "PB",
+        "zone_name": "Photo Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              7,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              6,
+              3
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
